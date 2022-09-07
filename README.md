@@ -5,5 +5,5 @@ A Simple ToDo App.
 You can add your "Things", change and delete. 
 Also, mark them with their importance.
 
-![](https://github.com/observer23/ToDoApp/blob/main/ToDoApp/Screenshots/HomePage.png = 750x500)
+![](https://github.com/observer23/ToDoApp/blob/main/ToDoApp/Screenshots/HomePage.png |height=500)
 
